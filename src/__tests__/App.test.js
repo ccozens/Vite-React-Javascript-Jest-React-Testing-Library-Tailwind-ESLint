@@ -8,5 +8,5 @@ import App from '../App';
 // tbr-tab for test block
 test('Vite should be in the doc', () => {
     const { getByText } = render(<App />);
-    getByText(/Vite/i);
+    getByText(/vite/i);
  });

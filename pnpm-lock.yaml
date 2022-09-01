@@ -21,7 +21,6 @@ specifiers:
   jest: ^29.0.1
   jest-circus: ^29.0.1
   jest-environment-jsdom: ^29.0.1
-  jest-scss-transform: ^1.0.3
   jest-watch-typeahead: ^2.1.1
   postcss: ^8.4.16
   react: ^18.2.0

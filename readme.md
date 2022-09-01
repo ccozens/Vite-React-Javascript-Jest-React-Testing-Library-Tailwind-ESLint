@@ -1,7 +1,7 @@
 Template repo for Vite, React, Javascript, Jest, RTL, Tailwind, ESLint.
 
 
-#####Installation
+##### Installation
 `npm install`
 
 After installs
