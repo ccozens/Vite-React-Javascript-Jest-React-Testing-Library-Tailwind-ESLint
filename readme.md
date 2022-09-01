@@ -1,11 +1,13 @@
+Template report for Vite, React, Javascript, Jest, RTL, Tailwind, ESLint.
+
 The following were used in varying degrees making this:  
 [React + TailwindCSS + Vite.js = a Match made in Heaven?](https://dev.to/rjzauner/react-tailwindcss-vite-js-a-match-made-in-heaven-14o5)  
 [Quick Jest Setup With ViteJS, React, & TypeScript](https://codingwithmanny.medium.com/quick-jest-setup-with-vitejs-react-typescript-82f325e4323f)  
 [reactjs-vite-tailwindcss-boilerplate github repo](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate)
 
-The main difference here is Javascript, rather than typescript.
+The main difference here is Javascript, rather than Typescript.
 
-After installs:
+After installs
 `npm run dev` shows:
 
 ![preview](./preview.png)
@@ -38,6 +40,13 @@ Watch Usage
  › Press p to filter by a filename regex pattern.
  › Press t to filter by a test name regex pattern.
  › Press Enter to trigger a test run.
-  ```
-  
+ ```
+
+### Copy with [degit](https://github.com/Rich-Harris/degit):  
+
+```npm i -g degit```
+```degit/ccozens/Vite-React-Javascript-Jest-React-Testing-Library-Tailwind-ESLint
+```
+
 Please let me know if anything doesn't work!
+
