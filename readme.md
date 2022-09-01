@@ -13,12 +13,12 @@ After installs
 ![preview](./preview.png)
 
 
-And `npm test` resuts:
+And after `git init`, running `npm test` resuts:
 
 
  ```javascript
  PASS  src/__tests__/App.test.js
-  ✓ Vitejs should be in the doc (34 ms)
+  ✓ Vite should be in the doc (34 ms)
 
 ----------|---------|----------|---------|---------|-------------------
 File      | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s 
@@ -33,13 +33,7 @@ Snapshots:   0 total
 Time:        3.298 s
 Ran all test suites related to changed files.
 
-Watch Usage
- › Press a to run all tests.
- › Press f to run only failed tests.
- › Press q to quit watch mode.
- › Press p to filter by a filename regex pattern.
- › Press t to filter by a test name regex pattern.
- › Press Enter to trigger a test run.
+
  ```
 
 ### Copy with [degit](https://github.com/Rich-Harris/degit):  
