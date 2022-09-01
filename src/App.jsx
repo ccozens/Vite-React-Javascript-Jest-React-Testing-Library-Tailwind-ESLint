@@ -17,6 +17,7 @@ const text = 'Vite . React . Javascript . Jest . React Testing Library . Tailwin
       </h1>
     </div>
     </div>
+    
   )
 }
 

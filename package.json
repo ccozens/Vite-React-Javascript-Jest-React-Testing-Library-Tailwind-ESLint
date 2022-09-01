@@ -1,8 +1,7 @@
 {
-  "name": "mol-bio-vite",
+  "name": "vite-template",
   "private": true,
   "version": "0.0.0",
-
   "babel": {
     "env": {
       "test": {
@@ -22,9 +21,9 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  
   "devDependencies": {
     "@babel/core": "^7.18.13",
+    "@babel/plugin-proposal-class-properties": "^7.18.6",
     "@babel/plugin-syntax-jsx": "^7.18.6",
     "@babel/preset-env": "^7.18.10",
     "@babel/preset-react": "^7.18.6",
