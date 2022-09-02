@@ -34,8 +34,12 @@ Ran all test suites related to changed files.
 
 ### Copy with [degit](https://github.com/Rich-Harris/degit):  
 
-```npm i -g degit```
-```degit/ccozens/Vite-React-Javascript-Jest-React-Testing-Library-Tailwind-ESLint
+```
+npm i -g degit
+```
+
+```
+degit/ccozens/Vite-React-Javascript-Jest-React-Testing-Library-Tailwind-ESLint
 ```
 
 ##### Resources
